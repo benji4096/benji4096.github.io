@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AEBBF990-E3A8-4FD2-A2D7-90764597CCC8}"
+	ProjectSection(SolutionItems) = preProject
+		game.js = game.js
+		index.html = index.html
+		physics.js = physics.js
+		style.css = style.css
+		Vec2.js = Vec2.js
+		viewport.js = viewport.js
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27A9507B-FF33-4949-BDCA-505BD01E9E9C}
+	EndGlobalSection
+EndGlobal
