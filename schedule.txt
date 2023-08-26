@@ -1,5 +1,0 @@
-https://www.stolaf.edu/people/hansonr/mysched/
-
-MWF 10:00AM-10:59AM cs61c
-TuTh 9:30AM-10:59AM cs70
-TuTh 3:30PM-4:59PM MathH104_(Dwinelle255)
